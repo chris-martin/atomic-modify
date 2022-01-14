@@ -1,0 +1,4 @@
+packages: atomic-modify
+
+constraints:
+    base ^>= 4.10

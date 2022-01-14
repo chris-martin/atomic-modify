@@ -1,0 +1,5 @@
+packages: atomic-modify
+
+constraints:
+    base ^>= 4.14
+  , stm ^>= 2.5
